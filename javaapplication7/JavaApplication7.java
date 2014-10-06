@@ -1,10 +1,6 @@
 
 package javaapplication7;
 
-/**
- *
- * @author Administrador
- */
 public class JavaApplication7 {
 
     /**
